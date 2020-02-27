@@ -1,3 +1,3 @@
 # js-basico
 
-versao 1.0 - @neemiasjnr
+versao 1.1
